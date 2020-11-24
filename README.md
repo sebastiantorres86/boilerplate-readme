@@ -1,80 +1,68 @@
-# Frontend Mentor - File Transfer pricing component
+# FrontendCafé: Proyectos CMYK++
 
-![Design preview for the File Transfer pricing component coding challenge](./design/desktop-preview.jpg)
+![Portada Proyectos CMYK](/images/cover.jpg)
 
-## Welcome! 👋
+## ¡Bienvenido! 👋
 
-Thanks for checking out this front-end coding challenge.
+Gracias por sumarte a este desafío de codificación de front-end.
 
-[Frontend Mentor](https://www.frontendmentor.io) challenges allow you to improve your skills in a real-life workflow.
+Los desafíos de [FrontendCafé](https://frontend.cafe/cmyk) le permiten mejorar sus habilidades en un flujo de trabajo de la vida real.
 
-**To do this challenge, you need a basic understanding of HTML, CSS and JavaScript.**
+**Para hacer este desafío, necesita un conocimiento básico de HTML, CSS y JavaScript.**
 
-## The challenge
+Puede utilizar HTML, JavaScript y CSS para completar este proyecto. Se recomienda usar CSS simple y usted debe practicar con CSS simple. Puede usar Bootstrap o SASS si lo desea. No se recomiendan tecnologías adicionales (por ejemplo, jQuery, React, Angular o Vue) para este proyecto, y su uso es bajo su propio riesgo. Otros proyectos te darán la oportunidad de trabajar con diferentes stacks de tecnología como React. Aceptaremos e intentaremos solucionar todos los informes de problemas que utilicen el stack de tecnología sugerida para este proyecto.
 
-Your challenge is to build out this pricing component and get it looking as close to the design as possible.
+## Cómo obtener ayuda cuando se estanca codificando
 
-You can use any tools you like to help you complete the challenge. So if you've got something you'd like to practice, feel free to give it a go.
+Cuando te quedes atascado, recuerda: Leer-Buscar-Preguntar.
 
-Your users should be able to:
+1. **Leer** la documentación o el error
+2. **Buscar** en Google
+3. **Pide** ayuda a tus compañeros de equipo
 
-- View the optimal layout for the component depending on their device's screen size
-- Control the toggle with both their mouse/trackpad and their keyboard
-- **Bonus**: Complete the challenge with just HTML and CSS
+Esta es la forma más eficiente de manejar el estancamiento, y también es la más respetuosa con el tiempo de otras personas.
 
-Want some support on the challenge? [Join our Slack community](https://www.frontendmentor.io/slack) and ask questions in the **#help** channel.
+La mayoría de las veces, resolverá su problema después de solo uno o dos pasos de este algoritmo.
 
-## Where to find everything
+## El desafío
 
-Your task is to build out the project to the designs inside the `/design` folder. You will find both a mobile and a desktop version of the design to work to, as well as a design for the active states.
+Su desafío es desarrollar una aplicación web y lograr que se parezca lo más posible al diseño.
 
-The designs are in JPG static format. This will mean that you'll need to use your best judgment for styles such as `font-size`, `padding` and `margin`. This should help train your eye to perceive differences in spacings and sizes.
+Puede utilizar las herramientas que desee para completar el desafío. Entonces, si tienes algo que te gustaría practicar, no dudes en intentarlo.
 
-If you would like the Sketch file in order to inspect the design in more detail you can [subscribe as a PRO member](https://www.frontendmentor.io/pro).
+Sus usuarios deberían poder:
 
-You will find all the required assets in the `/images` folder. The assets are already optimized.
+- Ver el diseño óptimo según el tamaño de la pantalla de su dispositivo.
 
-There is also a `style-guide.md` file, which contains the information you'll need, such as color palette and fonts.
+## Dónde encontrar todo
 
-## Building your project
+Su tarea es construir el proyecto con los diseños dentro de la carpeta `/design`.
 
-Feel free to use any workflow that you feel comfortable with. Below is a suggested process, but do not feel like you need to follow these steps:
+Guarde todos los recursos necesarios en la carpeta `/images`. Los assets deben estar optimizados.
 
-1. Initialize your project as a public repository on [GitHub](https://github.com/). This will make it easier to share your code with the community if you need some help. If you're not sure how to do this, [have a read through of this Try Git resource](https://try.github.io/).
-2. Configure your repository to publish your code to a URL. This will also be useful if you need some help during a challenge as you can share the URL for your project with your repo URL. There are a number of ways to do this, but we recommend using [Vercel](https://bit.ly/fem-vercel). We've got more information about deploying your project with Vercel below.
-3. Look through the designs to start planning out how you'll tackle the project. This step is crucial to help you think ahead for CSS classes that you could create to make reusable styles.
-4. Before adding any styles, structure your content with HTML. Writing your HTML first can help focus your attention on creating well-structured content.
-5. Write out the base styles for your project, including general content styles, such as `font-family` and `font-size`.
-6. Start adding styles to the top of the page and work down. Only move on to the next section once you're happy you've completed the area you're working on.
+## Creación de su proyecto
 
-## Deploying your project
+No dude en utilizar cualquier flujo de trabajo con el que se sienta cómodo. A continuación se muestra un proceso sugerido, pero no se sienta obligado a seguir estos pasos:
 
-As mentioned above, there are a number of ways to host your project for free. We recommend using [Vercel](https://bit.ly/fem-vercel) as it's an amazing service and extremely simple to get set up with. If you'd like to use Vercel, here are some steps to follow to get started:
+1. Inicialice su proyecto como un repositorio público en [GitHub](https://github.com/). Esto hará que sea más fácil compartir su código con la comunidad si necesita ayuda. Si no está seguro de cómo hacer esto, [lea este recurso Try Git](https://try.github.io/). También puede leer esta [Guía para colaborar en proyectos en Github](/Guia-de-colaboracion.md).
+2. Configure su repositorio para publicar su código en una URL. Esto también será útil si necesita ayuda durante un desafío, ya que puede compartir la URL de su proyecto con la URL de su repositorio. Hay varias formas de hacer esto, pero recomendamos usar [Vercel](https://bit.ly/fem-vercel). Tenemos más información sobre cómo implementar su proyecto con Vercel a continuación.
+3. Revise los diseños para comenzar a planificar cómo abordará el proyecto. Este paso es crucial para ayudarlo a pensar en las clases de CSS que podría crear para crear estilos reutilizables.
+4. Antes de agregar cualquier estilo, estructure su contenido con HTML. Escribir su HTML primero puede ayudarlo a centrar su atención en la creación de contenido bien estructurado.
+5. Escriba los estilos base para su proyecto, incluidos los estilos de contenido general, como `font-family` y` font-size`.
+6. Comience a agregar estilos en la parte superior de la página y continúe hacia abajo. Pase a la siguiente sección solo una vez que esté satisfecho de haber completado el área en la que está trabajando.
 
-1. [Sign up to Vercel](https://bit.ly/fem-vercel-signup) and go through the onboarding flow, ensuring your GitHub account is connected by using their [Vercel for GitHub](https://vercel.com/docs/v2/git-integrations/vercel-for-github) integration.
-2. Connect your project to Vercel from the ["Import project" page](https://vercel.com/import), using the "From Git Repository" button and selecting the project you want to deploy.
-3. Once connected, every time you `git push`, Vercel will create a new [deployment](https://vercel.com/docs/v2/platform/deployments) and the deployment URL will be shown on your [Dashboard](https://vercel.com/dashboard). You will also receive an email for each deployment with the URL.
+## Implementando su proyecto
 
-## Sharing your solution
+Como se mencionó anteriormente, hay varias formas de alojar su proyecto de forma gratuita. Recomendamos usar [Vercel](https://bit.ly/fem-vercel) ya que es un servicio asombroso y extremadamente simple de configurar. Si desea utilizar Vercel, aquí hay algunos pasos que debe seguir para comenzar:
 
-There are multiple places you can share your solution:
+1. [Regístrese en Vercel](https://bit.ly/fem-vercel-signup) y siga el flujo de incorporación, asegurándose su cuenta de GitHub está conectada mediante su integración de [Vercel para GitHub](https://vercel.com/docs/v2/git-integrations/vercel-for-github).
+2. Conecte su proyecto a Vercel desde la [página "Importar proyecto"](https://vercel.com/import), usando el botón "Desde el repositorio Git" y seleccionando el proyecto que desea implementar.
+3. Una vez conectado, cada vez que haga "git push", Vercel creará una nueva [implementación](https://vercel.com/docs/v2/platform/deployments) y la URL de implementación se mostrará en su [Panel de control](https://vercel.com/dashboard). También recibirá un correo electrónico para cada implementación con la URL.
 
-1. Submit it on the platform so that other users will see your solution on the site. Here's our ["Complete guide to submitting solutions"](https://medium.com/frontend-mentor/a-complete-guide-to-submitting-solutions-on-frontend-mentor-ac6384162248) to help you do that.
-2. Share your solution page in the **#finished-projects** channel of the [Slack community](https://www.frontendmentor.io/slack).
-3. Tweet [@frontendmentor](https://twitter.com/frontendmentor) and mention **@frontendmentor** including the repo and live URLs in the tweet. We'd love to take a look at what you've built and help share it around.
+**¡Diviértete construyendo!** 🚀
 
-## Giving feedback
+## Acerca de FrontendCafé
 
-Feedback is always welcome, so if you have any to give on this challenge please email hi[at]frontendmentor[dot]io.
+Somos una comunidad de personas interesadas en tecnología y ciencias informáticas en donde charlamos sobre lenguajes de programación, diseño web, infraestructura, compartimos dudas, preguntamos y respondemos.
 
-This challenge is completely free. Please share it with anyone who will find it useful for practice.
-
-**Have fun building!** 🚀
-
-## Community Sponsors
-
-A massive thank you to our community sponsors!
-
-- [Zero to Mastery](https://bit.ly/fem-ztm) is an incredible learning resource for all things web development. Led by Andrei Neagoie, the courses are really high-quality content and cover a wide range of in-demand skills.
-- [Diversify Tech](https://bit.ly/fem-diversify-tech) is an amazing resource for underrepresented people in tech. The site features job listings for anyone seeking new opportunities. The resource section is also full of useful links to dive into!
-- [Triplebyte](http://bit.ly/fem-triplebyte) is a really nice offering if you're looking for a new role. It's a free service that lets you take a confidential quiz. Based on your results companies will pitch you for their vacant roles!
+Todo pasa adentro de un canal de [Discord](https://discord.gg/frontendcafe)...
